@@ -1,0 +1,10 @@
+{
+  "item.conceptosgui.gui_opener_basic": "Abridor de GUI Básica",
+  "item.conceptosgui.gui_opener_config": "Abridor de Configuración",
+  "item.conceptosgui.gui_opener_scrollable": "Abridor de Lista",
+  "item.conceptosgui.gui_opener_tabbed": "Abridor con Pestañas",
+  "item.conceptosgui.gui_opener_animated": "Abridor Animado",
+  "item.conceptosgui.gui_opener_progress": "Abridor de Progreso",
+  "block.conceptosgui.gui_block": "Bloque con GUI",
+  "itemGroup.conceptos_tab": "Conceptos GUI"
+}

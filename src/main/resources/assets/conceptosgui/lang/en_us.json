@@ -1,0 +1,10 @@
+{
+  "item.conceptosgui.gui_opener_basic": "Basic GUI Opener",
+  "item.conceptosgui.gui_opener_config": "Config GUI Opener",
+  "item.conceptosgui.gui_opener_scrollable": "Scrollable List Opener",
+  "item.conceptosgui.gui_opener_tabbed": "Tabbed GUI Opener",
+  "item.conceptosgui.gui_opener_animated": "Animated GUI Opener",
+  "item.conceptosgui.gui_opener_progress": "Progress Bars Opener",
+  "block.conceptosgui.gui_block": "GUI Block",
+  "itemGroup.conceptos_tab": "GUI Concepts"
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "conceptosgui:block/gui_block"
+    }
+  }
+}
